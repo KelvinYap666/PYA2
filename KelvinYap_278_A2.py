@@ -1,8 +1,4 @@
 #Name: KelvinYap
-#UOW Student number:8750762
-#Tutorial group 04F
-#Declaration: This is my own program and I have not passed my program to anyone
-
 
 #reverse function
 def printBackward(n,n1,n2,n3):
